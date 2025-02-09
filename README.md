@@ -1,6 +1,3 @@
-Here's a potential README file for your GitHub repository, tailored for this dashboard project:
-
----
 
 # Jain E-Commerce Sales Dashboard
 
